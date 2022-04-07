@@ -1,9 +1,9 @@
 - 👋 Oi eu sou o João Pedro.
+- 🌱 Procurando crescer como desenvolvedor.
 - 🌱 Tenho interesse e conhecimentos JUNIOR em desenvolvimento web fullstack.
 - 🌱 Conhecimento de algoritmo, condicionais, iteraçoes, orientado a objetos.
 - 🌱 Conhecimento em HTML, Css, JS, SQL, Node.js, Python
 - 🌱 Atualmente aprendendo JS vanilla e Css.
-- 🌱 Procurando crescer como desenvolvedor.
 - 📫 Para entrar em contato comigo mande email para joaopedro.ads2021@gmail.com 
 
 <!---
