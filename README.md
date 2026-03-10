@@ -9,7 +9,7 @@ Engenheiro de Software em construção, focado em criar soluções Fullstack rob
 *   **Lógica:** Sólidos fundamentos em Algoritmos, Estruturas de Repetição e Programação Orientada a Objetos (POO).
 
 ### 🧠 Atualmente aprendendo:
-*   Integração de Modelos de Linguagem (LLMs) em aplicações web.
+*   Sockets.io || Redis || Sequelize ORM
 *   Aperfeiçoamento em frameworks Fullstack.
 
 ### 📊 Estatísticas:
